@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(115, 216, 30);
 }
 
 h2{
@@ -78,7 +78,7 @@ img{
     vertical-align: top;   
 }
 .box img{
-    margin: 0;
+    margin: 2;
     padding: 0;
     width: 100%;
 }
