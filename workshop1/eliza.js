@@ -28,6 +28,11 @@
  */
 
 var rules = {
+	"~*x What is this, a center for ants?"
+	"There must be more to life than being really really ridiculously good looking."
+	"Zoolander."
+	"Mugatu."
+	"Kill the prime minister of Malaysia!"
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
